@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260530142309D5MY6F</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260530142309ASVLO6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ATRAPADOS EN LA RED</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Campaña de concienciación sobre los riesgos de las redes sociales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Christian Bengoa Prieto</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Campaña de concienciación sobre los riesgos de las redes sociales</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780140298624</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mps54bez-l1dksnoi8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué es esto?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué es esto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Qué es esto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bez-l1dksnoi8</odePageId>
+      <odeBlockId>block-1779636869364-6j2lhdxp4</odeBlockId>
+      <blockName>Descripción de la situación de aprendizaje</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bez-l1dksnoi8</odePageId>
+          <odeBlockId>block-1779636869364-6j2lhdxp4</odeBlockId>
+          <odeIdeviceId>idevice-1779636869362-0rx6dq7uw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las redes sociales forman parte de nuestro entorno cotidiano y, aunque muchos aún no tengáis perfiles propios, influyen constantemente en la forma en que nos informamos, nos comunicamos y nos relacionamos. Sin embargo, junto a sus ventajas también existen riesgos que conviene conocer para poder utilizarlas de manera segura y responsable.</p>
+<p style="text-align: justify;">En esta situación de aprendizaje analizaremos de forma crítica el mundo digital y reflexionaremos sobre cuestiones como la privacidad, la influencia de la publicidad, la gestión de la información o los hábitos de uso de las redes sociales. Para ello, convertiremos nuestro propio centro en objeto de estudio, recogiendo y analizando datos reales sobre las percepciones y experiencias de la comunidad educativa.</p>
+<p style="text-align: justify;">A partir de los resultados obtenidos, trabajaremos en equipo para diseñar una campaña de concienciación dirigida al instituto. Mediante carteles y mensajes digitales, intentaremos informar, sensibilizar y promover un uso más consciente y responsable de las redes sociales. El reto consiste en investigar, analizar y comunicar para generar un impacto positivo en nuestro entorno.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779636869362-0rx6dq7uw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las redes sociales forman parte de nuestro entorno cotidiano y, aunque muchos aún no tengáis perfiles propios, influyen constantemente en la forma en que nos informamos, nos comunicamos y nos relacionamos. Sin embargo, junto a sus ventajas también existen riesgos que conviene conocer para poder utilizarlas de manera segura y responsable.</p>\n<p style=\"text-align: justify;\">En esta situación de aprendizaje analizaremos de forma crítica el mundo digital y reflexionaremos sobre cuestiones como la privacidad, la influencia de la publicidad, la gestión de la información o los hábitos de uso de las redes sociales. Para ello, convertiremos nuestro propio centro en objeto de estudio, recogiendo y analizando datos reales sobre las percepciones y experiencias de la comunidad educativa.</p>\n<p style=\"text-align: justify;\">A partir de los resultados obtenidos, trabajaremos en equipo para diseñar una campaña de concienciación dirigida al instituto. Mediante carteles y mensajes digitales, intentaremos informar, sensibilizar y promover un uso más consciente y responsable de las redes sociales. El reto consiste en investigar, analizar y comunicar para generar un impacto positivo en nuestro entorno.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mps54bez-l1dksnoi8</odePageId>
+      <odeBlockId>block-1780133222232-82pomeekd</odeBlockId>
+      <blockName>Objetivos</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bez-l1dksnoi8</odePageId>
+          <odeBlockId>block-1780133222232-82pomeekd</odeBlockId>
+          <odeIdeviceId>idevice-1780133222229-ywm4azq9u</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-fx exe-paginated">
+<h2>1. Entender y explicar datos</h2>
+<p>Aprender a interpretar los datos obtenidos para sacar conclusiones y explicarlas con tus propias palabras.</p>
+<h2>2. Convencer con tus palabras</h2>
+<p>Utilizar el lenguaje publicitario para crear mensajes que llamen la atención y hagan reflexionar a los demás.</p>
+<h2>3. Escribir preguntas claras</h2>
+<p>Crear preguntas sencillas, directas y bien escritas para realizar encuestas a tus compañeros y compañeras.</p>
+<h2>4. Buscar y seleccionar información importante</h2>
+<p>Investigar en fuentes fiables sobre los riesgos de las redes sociales y seleccionar información útil.</p>
+<h2>5. Escribir consejos y normas de seguridad</h2>
+<p>Redactar recomendaciones claras y fáciles de seguir para ayudar a usar las redes sociales de forma responsable.</p>
+<h2>6. Crear eslóganes llamativos</h2>
+<p>Inventar frases cortas y fáciles de recordar para transmitir mensajes importantes.</p>
+<h2>7. Trabajar y debatir en equipo</h2>
+<p>Compartir tus ideas, escuchar las de los demás y tomar decisiones de forma respetuosa y colaborativa.</p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780133222229-ywm4azq9u","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-fx exe-paginated\">\n<h2>1. Entender y explicar datos</h2>\n<p>Aprender a interpretar los datos obtenidos para sacar conclusiones y explicarlas con tus propias palabras.</p>\n<h2>2. Convencer con tus palabras</h2>\n<p>Utilizar el lenguaje publicitario para crear mensajes que llamen la atención y hagan reflexionar a los demás.</p>\n<h2>3. Escribir preguntas claras</h2>\n<p>Crear preguntas sencillas, directas y bien escritas para realizar encuestas a tus compañeros y compañeras.</p>\n<h2>4. Buscar y seleccionar información importante</h2>\n<p>Investigar en fuentes fiables sobre los riesgos de las redes sociales y seleccionar información útil.</p>\n<h2>5. Escribir consejos y normas de seguridad</h2>\n<p>Redactar recomendaciones claras y fáciles de seguir para ayudar a usar las redes sociales de forma responsable.</p>\n<h2>6. Crear eslóganes llamativos</h2>\n<p>Inventar frases cortas y fáciles de recordar para transmitir mensajes importantes.</p>\n<h2>7. Trabajar y debatir en equipo</h2>\n<p>Compartir tus ideas, escuchar las de los demás y tomar decisiones de forma respetuosa y colaborativa.</p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780136378151-is3733axo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780136378151-is3733axo</odePageId>
+      <odeBlockId>block-1780137332048-3jho5e993</odeBlockId>
+      <blockName>Tareas con criterios asociados</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780136378151-is3733axo</odePageId>
+          <odeBlockId>block-1780137332048-3jho5e993</odeBlockId>
+          <odeIdeviceId>idevice-1780137332046-q44ujvuuv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><embed width="800" height="400" src="{{context_path}}/content/resources/Tareas y criterios.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780137332046-q44ujvuuv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><embed width=\"800\" height=\"400\" src=\"{{context_path}}/content/resources/Tareas y criterios.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf0-ywuuilrn1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Información importante previa</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información importante previa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Información importante previa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Información importante previa</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf0-ywuuilrn1</odePageId>
+      <odeBlockId>block-1779637685910-ziofwrd6b</odeBlockId>
+      <blockName>Sobre la protección de datos y garantías de derechos digitales</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf0-ywuuilrn1</odePageId>
+          <odeBlockId>block-1779637685910-ziofwrd6b</odeBlockId>
+          <odeIdeviceId>idevice-1779637685907-tq42ksknw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 800px;">
+<div class="figcaption header"><strong>Infografía sobre licencias digitales y seguridad digital</strong></div>
+<img src="{{context_path}}/content/resources/Licencias y seguridad digital.jpg" width="800" height="2000" alt="Título de la imagen: Infografía educativa sobre Licencias Digitales y Seguridad Digital, creada por Christian Bengoa.  La imagen está dividida verticalmente en dos secciones principales mediante un diseño limpio con fondo blanco y figuras geométricas de colores.  Sección superior: Licencias Digitales Esta parte muestra tres hexágonos de colores entrelazados que explican los tipos de propiedad intelectual:  Hexágono rojo (Copyright): Contiene el símbolo de una "C" en un círculo. El texto explica que el autor tiene el control exclusivo sobre el uso, copia, distribución o modificación, y que no se puede utilizar sin permiso.  Hexágono naranja (Creative Commons): Contiene el símbolo "CC". Explica que el creador sigue teniendo derechos pero autoriza ciertos usos, desglosando las siglas: BY (Atribución), SA (Compartir igual), NC (No comercial) y ND (Sin obras derivadas). Incluye los iconos gráficos correspondientes a estas combinaciones.  Hexágono verde (Dominio Público): Contiene el símbolo de una "C" tachada. Explica que se pueden usar libremente sin pedir permiso ni citar obligatoriamente (aunque se recomienda).  Sección inferior: Seguridad Digital Esta sección está dispuesta en forma de panal, con un hexágono central rodeado por otros seis de diferentes colores pasteles. Cada uno contiene un icono y un consejo de seguridad vial digital:  Hexágono central (Rosa): Icono de una cámara de fotos. Texto: "No subas ni compartas fotos sin pensar en las consecuencias".  Hexágono superior (Verde claro): Icono de una llave dorada. Texto: "No compartas tus contraseñas con nadie".  Hexágono superior derecho (Morado): Icono de un globo terráqueo con las siglas "www". Texto: "Utiliza solo páginas web fiables y oficiales".  Hexágono inferior derecho (Rosa claro): Icono de un eslabón de cadena. Texto: "No hagas clic en enlaces sospechosos o desconocidos".  Hexágono inferior (Amarillo): Icono de un emoji pensando. Texto: "Piensa antes de publicar: lo que subes en Internet puede quedarse para siempre".  Hexágono inferior izquierdo (Azul): Icono de una pantalla con una flecha de salida. Texto: "Cierra sesión en dispositivos compartidos o públicos".  Hexágono superior izquierdo (Amarillo): Icono de una silueta con sombrero y gafas de incógnito. Texto: "No aceptes a desconocidos en redes sociales".  En la esquina inferior derecha de la imagen aparece la firma del autor: "Christian Bengoa"." />
+<figcaption class="figcaption"><span class="author">Christian Bengoa Prieto</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779637685907-tq42ksknw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 800px;\">\n<div class=\"figcaption header\"><strong>Infografía sobre licencias digitales y seguridad digital</strong></div>\n<img src=\"{{context_path}}/content/resources/Licencias y seguridad digital.jpg\" width=\"800\" height=\"2000\" alt=\"Título de la imagen: Infografía educativa sobre Licencias Digitales y Seguridad Digital, creada por Christian Bengoa.  La imagen está dividida verticalmente en dos secciones principales mediante un diseño limpio con fondo blanco y figuras geométricas de colores.  Sección superior: Licencias Digitales Esta parte muestra tres hexágonos de colores entrelazados que explican los tipos de propiedad intelectual:  Hexágono rojo (Copyright): Contiene el símbolo de una \"C\" en un círculo. El texto explica que el autor tiene el control exclusivo sobre el uso, copia, distribución o modificación, y que no se puede utilizar sin permiso.  Hexágono naranja (Creative Commons): Contiene el símbolo \"CC\". Explica que el creador sigue teniendo derechos pero autoriza ciertos usos, desglosando las siglas: BY (Atribución), SA (Compartir igual), NC (No comercial) y ND (Sin obras derivadas). Incluye los iconos gráficos correspondientes a estas combinaciones.  Hexágono verde (Dominio Público): Contiene el símbolo de una \"C\" tachada. Explica que se pueden usar libremente sin pedir permiso ni citar obligatoriamente (aunque se recomienda).  Sección inferior: Seguridad Digital Esta sección está dispuesta en forma de panal, con un hexágono central rodeado por otros seis de diferentes colores pasteles. Cada uno contiene un icono y un consejo de seguridad vial digital:  Hexágono central (Rosa): Icono de una cámara de fotos. Texto: \"No subas ni compartas fotos sin pensar en las consecuencias\".  Hexágono superior (Verde claro): Icono de una llave dorada. Texto: \"No compartas tus contraseñas con nadie\".  Hexágono superior derecho (Morado): Icono de un globo terráqueo con las siglas \"www\". Texto: \"Utiliza solo páginas web fiables y oficiales\".  Hexágono inferior derecho (Rosa claro): Icono de un eslabón de cadena. Texto: \"No hagas clic en enlaces sospechosos o desconocidos\".  Hexágono inferior (Amarillo): Icono de un emoji pensando. Texto: \"Piensa antes de publicar: lo que subes en Internet puede quedarse para siempre\".  Hexágono inferior izquierdo (Azul): Icono de una pantalla con una flecha de salida. Texto: \"Cierra sesión en dispositivos compartidos o públicos\".  Hexágono superior izquierdo (Amarillo): Icono de una silueta con sombrero y gafas de incógnito. Texto: \"No aceptes a desconocidos en redes sociales\".  En la esquina inferior derecha de la imagen aparece la firma del autor: \"Christian Bengoa\".\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Christian Bengoa Prieto</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf0-wxajvbfey</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf0-wxajvbfey</odePageId>
+      <odeBlockId>block-1779638387357-tsihyhwle</odeBlockId>
+      <blockName>Descripción del producto</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf0-wxajvbfey</odePageId>
+          <odeBlockId>block-1779638387357-tsihyhwle</odeBlockId>
+          <odeIdeviceId>idevice-1779638387355-j1aus3qgi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">¿Cómo se pasa de detectar un problema a generar un cambio real? A través de la comunicación. En este proyecto, vuestro reto final no será realizar un examen tradicional, sino diseñar y desarrollar una auténtica campaña digital de concienciación para toda la comunidad educativa.</p>
+<p style="text-align: justify;">Para ello, no trabajaréis con información inventada. Primero, recogeréis y analizaréis datos reales sobre el uso de las redes sociales en nuestro centro mediante encuestas y gráficos. Después, aplicaréis estrategias de comunicación, publicidad y diseño para transformar esos datos en mensajes claros, atractivos y convincentes.</p>
+<p style="text-align: justify;">El objetivo será informar, hacer reflexionar y promover un uso más responsable de las redes sociales entre vuestros compañeros y compañeras. A través de la palabra, la imagen y la creatividad, comprobaréis cómo la comunicación puede convertirse en una herramienta capaz de influir positivamente en vuestro entorno.</p>
+<p>Ha llegado el momento de investigar, crear y lanzar una campaña con un impacto real.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779638387355-j1aus3qgi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">¿Cómo se pasa de detectar un problema a generar un cambio real? A través de la comunicación. En este proyecto, vuestro reto final no será realizar un examen tradicional, sino diseñar y desarrollar una auténtica campaña digital de concienciación para toda la comunidad educativa.</p>\n<p style=\"text-align: justify;\">Para ello, no trabajaréis con información inventada. Primero, recogeréis y analizaréis datos reales sobre el uso de las redes sociales en nuestro centro mediante encuestas y gráficos. Después, aplicaréis estrategias de comunicación, publicidad y diseño para transformar esos datos en mensajes claros, atractivos y convincentes.</p>\n<p style=\"text-align: justify;\">El objetivo será informar, hacer reflexionar y promover un uso más responsable de las redes sociales entre vuestros compañeros y compañeras. A través de la palabra, la imagen y la creatividad, comprobaréis cómo la comunicación puede convertirse en una herramienta capaz de influir positivamente en vuestro entorno.</p>\n<p>Ha llegado el momento de investigar, crear y lanzar una campaña con un impacto real.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf0-yqm2vk6du</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Organización</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Organización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf0-yqm2vk6du</odePageId>
+      <odeBlockId>block-1779638491773-t4l2sp1vs</odeBlockId>
+      <blockName>Fases del proyecto</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf0-yqm2vk6du</odePageId>
+          <odeBlockId>block-1779638491773-t4l2sp1vs</odeBlockId>
+          <odeIdeviceId>idevice-1779638491771-h52eqd0qk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para alcanzar nuestro objetivo y desarrollar una campaña de concienciación eficaz, trabajaremos en tres fases. Cada equipo asumirá el papel de un grupo de investigación y comunicación encargado de analizar una realidad y proponer soluciones.</p>
+<div class="exe-fx exe-accordion">
+<h2><strong>Fase 1. Investigación y recogida de datos</strong></h2>
+<p>Antes de elaborar nuestra campaña, necesitamos conocer mejor el tema sobre el que vamos a trabajar.</p>
+<p>En primer lugar, realizaremos una breve investigación sobre las redes sociales para conocer algunos de sus riesgos, el funcionamiento de los algoritmos, la influencia de la publicidad y las recomendaciones sobre su uso responsable.</p>
+<p>A continuación, diseñaremos un formulario digital para recoger información sobre los hábitos y opiniones de nuestro alumnado respecto a las redes sociales. Como ya conocéis el funcionamiento de los formularios de Google, nos centraremos especialmente en redactar preguntas claras, precisas y útiles para obtener datos fiables.</p>
+<h2><strong>Fase 2. Análisis de la información</strong></h2>
+<p>Una vez recopiladas las respuestas, analizaremos los resultados obtenidos mediante gráficos, tablas y estadísticas.</p>
+<p>Cada equipo deberá interpretar los datos, identificar las principales conclusiones y detectar qué aspectos relacionados con las redes sociales requieren una mayor concienciación dentro del centro. Este análisis permitirá decidir el tema concreto sobre el que se centrará cada campaña.</p>
+<h2><strong>Fase 3. Diseño de la campaña</strong></h2>
+<p>Con las conclusiones obtenidas, llegará el momento de transformar la información en mensajes capaces de informar y sensibilizar a la comunidad educativa.</p>
+<p>Cada equipo elaborará carteles digitales, infografías u otros materiales visuales que incluyan datos relevantes, recomendaciones de uso responsable y mensajes persuasivos dirigidos a sus compañeros y compañeras. Para ello, será necesario combinar creatividad, capacidad de síntesis y un diseño visual atractivo.</p>
+<p>Los productos finales se difundirán en el centro con el objetivo de promover un uso más seguro, crítico y responsable de las redes sociales.</p>
+</div>
+<p>¿Estáis preparados para comenzar la investigación?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779638491771-h52eqd0qk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para alcanzar nuestro objetivo y desarrollar una campaña de concienciación eficaz, trabajaremos en tres fases. Cada equipo asumirá el papel de un grupo de investigación y comunicación encargado de analizar una realidad y proponer soluciones.</p>\n<div class=\"exe-fx exe-accordion\">\n<h2><strong>Fase 1. Investigación y recogida de datos</strong></h2>\n<p>Antes de elaborar nuestra campaña, necesitamos conocer mejor el tema sobre el que vamos a trabajar.</p>\n<p>En primer lugar, realizaremos una breve investigación sobre las redes sociales para conocer algunos de sus riesgos, el funcionamiento de los algoritmos, la influencia de la publicidad y las recomendaciones sobre su uso responsable.</p>\n<p>A continuación, diseñaremos un formulario digital para recoger información sobre los hábitos y opiniones de nuestro alumnado respecto a las redes sociales. Como ya conocéis el funcionamiento de los formularios de Google, nos centraremos especialmente en redactar preguntas claras, precisas y útiles para obtener datos fiables.</p>\n<h2><strong>Fase 2. Análisis de la información</strong></h2>\n<p>Una vez recopiladas las respuestas, analizaremos los resultados obtenidos mediante gráficos, tablas y estadísticas.</p>\n<p>Cada equipo deberá interpretar los datos, identificar las principales conclusiones y detectar qué aspectos relacionados con las redes sociales requieren una mayor concienciación dentro del centro. Este análisis permitirá decidir el tema concreto sobre el que se centrará cada campaña.</p>\n<h2><strong>Fase 3. Diseño de la campaña</strong></h2>\n<p>Con las conclusiones obtenidas, llegará el momento de transformar la información en mensajes capaces de informar y sensibilizar a la comunidad educativa.</p>\n<p>Cada equipo elaborará carteles digitales, infografías u otros materiales visuales que incluyan datos relevantes, recomendaciones de uso responsable y mensajes persuasivos dirigidos a sus compañeros y compañeras. Para ello, será necesario combinar creatividad, capacidad de síntesis y un diseño visual atractivo.</p>\n<p>Los productos finales se difundirán en el centro con el objetivo de promover un uso más seguro, crítico y responsable de las redes sociales.</p>\n</div>\n<p>¿Estáis preparados para comenzar la investigación?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mps54bf0-yqm2vk6du</odePageId>
+      <odeBlockId>block-1779639471533-1w8b74rmc</odeBlockId>
+      <blockName>Secuenciación temporal de las tareas</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf0-yqm2vk6du</odePageId>
+          <odeBlockId>block-1779639471533-1w8b74rmc</odeBlockId>
+          <odeIdeviceId>idevice-1779639471530-wnj79dmc2</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://view.genially.com/6a11d2f07ee9616887ec9c20" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf1-30dr0ltgb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Rastreando la red</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Rastreando la red</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Búsqueda de información</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Rastreando la red</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf1-30dr0ltgb</odePageId>
+      <odeBlockId>block-1779639916411-o5dy3laik</odeBlockId>
+      <blockName>Ejemplo</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf1-30dr0ltgb</odePageId>
+          <odeBlockId>block-1779639916411-o5dy3laik</odeBlockId>
+          <odeIdeviceId>idevice-1779639916409-f3ru2f07e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Para que os convirtáis en unos auténticos profesionales de la investigación, aquí tenéis acceso a nuestro Symbaloo del proyecto. En este panel interactivo os he preparado una selección de páginas web fiables donde podréis buscar y contrastar toda la información que necesitéis, aunque tendréis que buscar otras por vuestra cuenta. Además, encontraréis accesos directos a las herramientas digitales que utilizaremos a lo largo de las tres fases para diseñar el formulario, analizar los datos y crear vuestros carteles publicitarios. ¡Haced clic y que empiece la búsqueda!</p>
+<p style="text-align: justify;"><br /></p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAzGdRwsAA41_W3b2og==">https://www.symbaloo.com/shared/AAAAAzGdRwsAA41_W3b2og==</a></p>
+<p>
+<script>
+            window.featureExperiments = [{"name":"banners","googleId":null,"variant":1},{"name":"cache_translations","googleId":null,"variant":1},{"name":"offline","googleId":null,"variant":1},{"name":"offline2","googleId":null,"variant":1},{"name":"spam_email_check","googleId":null,"variant":1}];
+        </script>
+<script src="https://cmp.symbaloo.com/static/banners/20251024/inmobi.choice.js" async=""></script>
+</p>
+<!-- Google Tag Manager -->
+<p>
+<script>
+            (function (w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    symUserId: "81106182",
+                    symUserType: "VERIFIED_USER",
+                    symUserAffiliations:
+                        "[TEACHER]",
+                    symUserHasWorkspaces: false,
+                    symUserHasPaidWorkspace: false,
+                    symBannersShown: true,
+                    symWorkspaceType: null,
+                    symWorkspaceCode: null,
+                    symAppVersion: "3.49.59",
+                });
+                w[l].push({
+                    "gtm.start": new Date().getTime(),
+                    event: "gtm.js",
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != "dataLayer" ? "&l=" + l : "";
+                j.async = true;
+                j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(
+                window,
+                document,
+                "script",
+                "dataLayer",
+                "GTM-KVWB3JS",
+            );
+        </script>
+</p>
+<!-- End Google Tag Manager -->
+<p>
+<script>
+            window.baseUrl =
+                "\/\/cdn01.symbaloo.com\/static\/";
+        </script>
+<script src="//cdn01.symbaloo.com/static/libraryPage.58d549071e6f8194910f.js" crossorigin="anonymous"></script>
+<script src="https://cdn01.symbaloo.com/static/banners/20241029/pwLibrary.js" crossorigin="anonymous" data-cfasync="false"></script>
+<script async="" src="//cdn.intergient.com/1024288/72670/ramp.js" data-cfasync="false"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZRK9G1WSR8" data-cfasync="false"></script>
+<script async="" src="https://cdn01.symbaloo.com/static/banners/20240422/pwAnalytics-G-ZRK9G1WSR8.js" data-cfasync="false"></script>
+</p>
+<noscript><h1>Mi Webmix</h1></noscript><!-- Google Tag Manager (noscript) --><noscript><iframe
+                src="https://www.googletagmanager.com/ns.html?id=GTM-KVWB3JS"
+                height="0"
+                width="0"
+                style="display: none; visibility: hidden"
+            ></iframe
+        ></noscript><!-- End Google Tag Manager (noscript) -->
+<div id="elmPagePlaceholder"></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779639916409-f3ru2f07e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Para que os convirtáis en unos auténticos profesionales de la investigación, aquí tenéis acceso a nuestro Symbaloo del proyecto. En este panel interactivo os he preparado una selección de páginas web fiables donde podréis buscar y contrastar toda la información que necesitéis, aunque tendréis que buscar otras por vuestra cuenta. Además, encontraréis accesos directos a las herramientas digitales que utilizaremos a lo largo de las tres fases para diseñar el formulario, analizar los datos y crear vuestros carteles publicitarios. ¡Haced clic y que empiece la búsqueda!</p>\n<p style=\"text-align: justify;\"><br /></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAzGdRwsAA41_W3b2og==\">https://www.symbaloo.com/shared/AAAAAzGdRwsAA41_W3b2og==</a></p>\n<p>\n<script>\n            window.featureExperiments = [{\"name\":\"banners\",\"googleId\":null,\"variant\":1},{\"name\":\"cache_translations\",\"googleId\":null,\"variant\":1},{\"name\":\"offline\",\"googleId\":null,\"variant\":1},{\"name\":\"offline2\",\"googleId\":null,\"variant\":1},{\"name\":\"spam_email_check\",\"googleId\":null,\"variant\":1}];\n        </script>\n<script src=\"https://cmp.symbaloo.com/static/banners/20251024/inmobi.choice.js\" async=\"\"></script>\n</p>\n<!-- Google Tag Manager -->\n<p>\n<script>\n            (function (w, d, s, l, i) {\n                w[l] = w[l] || [];\n                w[l].push({\n                    symUserId: \"81106182\",\n                    symUserType: \"VERIFIED_USER\",\n                    symUserAffiliations:\n                        \"[TEACHER]\",\n                    symUserHasWorkspaces: false,\n                    symUserHasPaidWorkspace: false,\n                    symBannersShown: true,\n                    symWorkspaceType: null,\n                    symWorkspaceCode: null,\n                    symAppVersion: \"3.49.59\",\n                });\n                w[l].push({\n                    \"gtm.start\": new Date().getTime(),\n                    event: \"gtm.js\",\n                });\n                var f = d.getElementsByTagName(s)[0],\n                    j = d.createElement(s),\n                    dl = l != \"dataLayer\" ? \"&l=\" + l : \"\";\n                j.async = true;\n                j.src = \"https://www.googletagmanager.com/gtm.js?id=\" + i + dl;\n                f.parentNode.insertBefore(j, f);\n            })(\n                window,\n                document,\n                \"script\",\n                \"dataLayer\",\n                \"GTM-KVWB3JS\",\n            );\n        </script>\n</p>\n<!-- End Google Tag Manager -->\n<p>\n<script>\n            window.baseUrl =\n                \"\\/\\/cdn01.symbaloo.com\\/static\\/\";\n        </script>\n<script src=\"//cdn01.symbaloo.com/static/libraryPage.58d549071e6f8194910f.js\" crossorigin=\"anonymous\"></script>\n<script src=\"https://cdn01.symbaloo.com/static/banners/20241029/pwLibrary.js\" crossorigin=\"anonymous\" data-cfasync=\"false\"></script>\n<script async=\"\" src=\"//cdn.intergient.com/1024288/72670/ramp.js\" data-cfasync=\"false\"></script>\n<script async=\"\" src=\"https://www.googletagmanager.com/gtag/js?id=G-ZRK9G1WSR8\" data-cfasync=\"false\"></script>\n<script async=\"\" src=\"https://cdn01.symbaloo.com/static/banners/20240422/pwAnalytics-G-ZRK9G1WSR8.js\" data-cfasync=\"false\"></script>\n</p>\n<noscript><h1>Mi Webmix</h1></noscript><!-- Google Tag Manager (noscript) --><noscript><iframe\n                src=\"https://www.googletagmanager.com/ns.html?id=GTM-KVWB3JS\"\n                height=\"0\"\n                width=\"0\"\n                style=\"display: none; visibility: hidden\"\n            ></iframe\n        ></noscript><!-- End Google Tag Manager (noscript) -->\n<div id=\"elmPagePlaceholder\"></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mps54bf1-30dr0ltgb</odePageId>
+      <odeBlockId>block-1779640315706-s73tyylen</odeBlockId>
+      <blockName>Rastreando la red</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf1-30dr0ltgb</odePageId>
+          <odeBlockId>block-1779640315706-s73tyylen</odeBlockId>
+          <odeIdeviceId>idevice-1779640315704-vxjkwyn53</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p style="text-align: justify;">Antes de empezar a trabajar en equipo, cada uno de vosotros deberá elegir una herramienta digital para organizar su investigación individual, como Padlet, Symbaloo u otra que consideréis adecuada. Esta será vuestro espacio personal de trabajo, donde iréis recogiendo de forma ordenada toda la información relevante, datos interesantes y notas que vayáis encontrando durante la búsqueda. Podéis complementar estas herramientas con un documento en Google Drive.</p>
+<p style="text-align: justify;">Una vez tengáis vuestras ideas bien organizadas, llegará el momento de compartirlas con los integrantes de vuestro grupo cooperativo para seleccionar las más importantes y construir entre todos la investigación del equipo. ¡Recordad que una buena campaña en grupo empieza con un gran trabajo individual!</p>
+<p style="text-align: justify;">Symbaloo: <a href="https://www.symbaloo.com/">https://www.symbaloo.com/</a></p>
+<p style="text-align: justify;">Padlet: <a href="https://padlet.com/">https://padlet.com/</a></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779640315704-vxjkwyn53","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Individual","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Individual</dd></div></dl><p style=\"text-align: justify;\">Antes de empezar a trabajar en equipo, cada uno de vosotros deberá elegir una herramienta digital para organizar su investigación individual, como Padlet, Symbaloo u otra que consideréis adecuada. Esta será vuestro espacio personal de trabajo, donde iréis recogiendo de forma ordenada toda la información relevante, datos interesantes y notas que vayáis encontrando durante la búsqueda. Podéis complementar estas herramientas con un documento en Google Drive.</p>\n<p style=\"text-align: justify;\">Una vez tengáis vuestras ideas bien organizadas, llegará el momento de compartirlas con los integrantes de vuestro grupo cooperativo para seleccionar las más importantes y construir entre todos la investigación del equipo. ¡Recordad que una buena campaña en grupo empieza con un gran trabajo individual!</p>\n<p style=\"text-align: justify;\">Symbaloo: <a href=\"https://www.symbaloo.com/\">https://www.symbaloo.com/</a></p>\n<p style=\"text-align: justify;\">Padlet: <a href=\"https://padlet.com/\">https://padlet.com/</a></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf1-7vj0ymfwx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. ¿Qué pasa en nuestras redes?</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿Qué pasa en nuestras redes?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Creación del formulario</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿Qué pasa en nuestras redes?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf1-7vj0ymfwx</odePageId>
+      <odeBlockId>block-1779641269129-al6dp7c62</odeBlockId>
+      <blockName>Paso previo</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf1-7vj0ymfwx</odePageId>
+          <odeBlockId>block-1779641269129-al6dp7c62</odeBlockId>
+          <odeIdeviceId>idevice-1779641269127-yw5acj8lu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style="text-align: justify;">Antes de lanzarnos a diseñar el formulario definitivo que responderán vuestros compañeros, es fundamental que os reunáis con vuestro equipo para tomar una decisión clave: ¿qué queremos preguntar exactamente? Basándoos en toda la información valiosa y en los datos que habéis descubierto en las páginas de confianza, tendréis que seleccionar los temas más importantes y redactar las preguntas de la manera más clara y rigurosa posible.</p>
+<p style="text-align: justify;">Para organizar todas estas ideas, os animo a abrir un nuevo documento compartido en Google Drive durante esta sesión. En él trabajaréis de forma conjunta para crear un borrador de vuestra encuesta, debatiendo cada pregunta en equipo, puliendo la redacción y asegurándoos de que no se os escapa ningún detalle importante antes de dar el paso definitivo. ¡El éxito de vuestra investigación depende de lo bien que preparéis este borrador!</p>
+<p>¿Cómo compartir un archivo en Google Drive?</p>
+<p> </p>
+<figure class="exe-figure position-center" style="width: 1710px;"><img src="https://storage.googleapis.com/support-kms-prod/vmWS7cXn4FIur1KXDDyLYBBKMEobSUYQ4ZJE" width="1710" height="962" alt="" />
+<figcaption class="figcaption"><span class="author">Google LLC</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: justify;"></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779641269127-yw5acj8lu","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo (5 discentes)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style=\"text-align: justify;\">Antes de lanzarnos a diseñar el formulario definitivo que responderán vuestros compañeros, es fundamental que os reunáis con vuestro equipo para tomar una decisión clave: ¿qué queremos preguntar exactamente? Basándoos en toda la información valiosa y en los datos que habéis descubierto en las páginas de confianza, tendréis que seleccionar los temas más importantes y redactar las preguntas de la manera más clara y rigurosa posible.</p>\n<p style=\"text-align: justify;\">Para organizar todas estas ideas, os animo a abrir un nuevo documento compartido en Google Drive durante esta sesión. En él trabajaréis de forma conjunta para crear un borrador de vuestra encuesta, debatiendo cada pregunta en equipo, puliendo la redacción y asegurándoos de que no se os escapa ningún detalle importante antes de dar el paso definitivo. ¡El éxito de vuestra investigación depende de lo bien que preparéis este borrador!</p>\n<p>¿Cómo compartir un archivo en Google Drive?</p>\n<p> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1710px;\"><img src=\"https://storage.googleapis.com/support-kms-prod/vmWS7cXn4FIur1KXDDyLYBBKMEobSUYQ4ZJE\" width=\"1710\" height=\"962\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Google LLC</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mps54bf1-7vj0ymfwx</odePageId>
+      <odeBlockId>block-1779641650327-k1uyqa4w8</odeBlockId>
+      <blockName>Creación del formulario</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf1-7vj0ymfwx</odePageId>
+          <odeBlockId>block-1779641650327-k1uyqa4w8</odeBlockId>
+          <odeIdeviceId>idevice-1779641650325-1fxp2a2ay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style="text-align: justify;">Para completar el proceso de investigación inicial, el siguiente paso es la construcción de la herramienta de recogida de información: vuestro Formulario de Google definitivo. Con el borrador que habéis trabajado en equipo ya revisado y pulido en Drive, llega el momento de trasladar esas ideas a la plataforma digital para convertirlas en una encuesta profesional.</p>
+<p style="text-align: justify;">En esta tarea, tendréis que prestar especial atención a tres elementos fundamentales: la estructura, el tipo de preguntas y, por encima de todo, la calidad del lenguaje. Deberéis comenzar incluyendo un título claro y una breve introducción redactada por el equipo, en la que expliquéis de forma atractiva a vuestros compañeros el objetivo del proyecto y les animéis a participar con sinceridad.</p>
+<p style="text-align: justify;">Durante el montaje del formulario, tendréis que decidir qué formato de pregunta es el más adecuado para cada caso (opción múltiple, casillas de verificación o escalas de valoración), buscando siempre que sea fácil y rápido de responder. Recordad que, como expertos en comunicación, vuestro mayor desafío será el rigor lingüístico: los enunciados deben ser directos, las opciones de respuesta no deben dar lugar a confusión y la ortografía debe ser impecable. Un formulario bien escrito genera confianza y garantiza que los datos que obtengamos sean de gran calidad para vuestra futura campaña.</p>
+<p style="text-align: justify;"><br /></p>
+<figure class="exe-figure position-center" style="width: 191px;"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRpUFJLvWoweterzOhfWgZhCDjrAVpfBvhg&amp;s" width="191" height="263" alt="" />
+<figcaption class="figcaption"><span class="author">Google LLC</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779641650325-1fxp2a2ay","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo (5 discentes)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style=\"text-align: justify;\">Para completar el proceso de investigación inicial, el siguiente paso es la construcción de la herramienta de recogida de información: vuestro Formulario de Google definitivo. Con el borrador que habéis trabajado en equipo ya revisado y pulido en Drive, llega el momento de trasladar esas ideas a la plataforma digital para convertirlas en una encuesta profesional.</p>\n<p style=\"text-align: justify;\">En esta tarea, tendréis que prestar especial atención a tres elementos fundamentales: la estructura, el tipo de preguntas y, por encima de todo, la calidad del lenguaje. Deberéis comenzar incluyendo un título claro y una breve introducción redactada por el equipo, en la que expliquéis de forma atractiva a vuestros compañeros el objetivo del proyecto y les animéis a participar con sinceridad.</p>\n<p style=\"text-align: justify;\">Durante el montaje del formulario, tendréis que decidir qué formato de pregunta es el más adecuado para cada caso (opción múltiple, casillas de verificación o escalas de valoración), buscando siempre que sea fácil y rápido de responder. Recordad que, como expertos en comunicación, vuestro mayor desafío será el rigor lingüístico: los enunciados deben ser directos, las opciones de respuesta no deben dar lugar a confusión y la ortografía debe ser impecable. Un formulario bien escrito genera confianza y garantiza que los datos que obtengamos sean de gran calidad para vuestra futura campaña.</p>\n<p style=\"text-align: justify;\"><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 191px;\"><img src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRpUFJLvWoweterzOhfWgZhCDjrAVpfBvhg&amp;s\" width=\"191\" height=\"263\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Google LLC</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780137187871-0yofs3bfs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Radiografía digital</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Radiografía digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Radiografía digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780137187871-0yofs3bfs</odePageId>
+      <odeBlockId>block-1780138123943-fp7cxhr0h</odeBlockId>
+      <blockName>Analizando resultados</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780137187871-0yofs3bfs</odePageId>
+          <odeBlockId>block-1780138123943-fp7cxhr0h</odeBlockId>
+          <odeIdeviceId>idevice-1780138123942-8qd83if2k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style="text-align: justify;">Una vez recopiladas las respuestas a los formularios, analizad la información obtenida para identificar las ideas, hábitos, opiniones o problemas que aparecen con mayor frecuencia. Observad qué tendencias se repiten, qué aspectos llaman vuestra atención y qué conclusiones podéis extraer a partir de los datos.</p>
+<p style="text-align: justify;">Para ello utilizaremos Google Forms, cuyas respuestas se pueden exportar automáticamente a una hoja de cálculo de Google Sheets, lo que os permitirá ver todas las respuestas juntas de forma ordenada y facilitar su análisis.</p>
+<p style="text-align: justify;">Este análisis os permitirá conocer mejor la realidad que habéis investigado y decidir qué enfoque tendrá vuestra campaña de concienciación. Para ello, debéis basar vuestras decisiones en las evidencias obtenidas y justificar por qué consideráis que vuestro mensaje responde a las necesidades o situaciones detectadas. Las conclusiones extraídas en esta actividad servirán como punto de partida para diseñar la campaña en las próximas sesiones.</p>
+<p style="text-align: justify;">¿Cómo se vinculan las respuestas de nuestro formulario? Simplemente hay que darle donde pone "vincular con hojas de cálculo" y nos redirigirá al documento en Drive.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-30 a las 12.57.36.png" width="1710" height="236" alt="" /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780138123942-8qd83if2k","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo (5 discentes)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style=\"text-align: justify;\">Una vez recopiladas las respuestas a los formularios, analizad la información obtenida para identificar las ideas, hábitos, opiniones o problemas que aparecen con mayor frecuencia. Observad qué tendencias se repiten, qué aspectos llaman vuestra atención y qué conclusiones podéis extraer a partir de los datos.</p>\n<p style=\"text-align: justify;\">Para ello utilizaremos Google Forms, cuyas respuestas se pueden exportar automáticamente a una hoja de cálculo de Google Sheets, lo que os permitirá ver todas las respuestas juntas de forma ordenada y facilitar su análisis.</p>\n<p style=\"text-align: justify;\">Este análisis os permitirá conocer mejor la realidad que habéis investigado y decidir qué enfoque tendrá vuestra campaña de concienciación. Para ello, debéis basar vuestras decisiones en las evidencias obtenidas y justificar por qué consideráis que vuestro mensaje responde a las necesidades o situaciones detectadas. Las conclusiones extraídas en esta actividad servirán como punto de partida para diseñar la campaña en las próximas sesiones.</p>\n<p style=\"text-align: justify;\">¿Cómo se vinculan las respuestas de nuestro formulario? Simplemente hay que darle donde pone \"vincular con hojas de cálculo\" y nos redirigirá al documento en Drive.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-30 a las 12.57.36.png\" width=\"1710\" height=\"236\" alt=\"\" /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780137205855-mnuh12652</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Viral</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Viral</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780137205855-mnuh12652</odePageId>
+      <odeBlockId>block-1780138861133-x8afexyd8</odeBlockId>
+      <blockName>Manos a la obra</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780137205855-mnuh12652</odePageId>
+          <odeBlockId>block-1780138861133-x8afexyd8</odeBlockId>
+          <odeIdeviceId>idevice-1780138861131-ll5dxwhci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style="text-align: justify;">Los resultados que habéis obtenido en la actividad anterior serán la base sobre la que construir vuestra campaña de concienciación. Ahora no se trata solo de diseñar materiales atractivos, sino de tomar decisiones fundamentadas: ¿qué idea queréis transmitir?, ¿qué aspectos habéis detectado como más relevantes?, ¿qué mensaje puede tener mayor impacto en vuestro público?</p>
+<p style="text-align: justify;">Con toda esta información, vais a crear vuestra campaña utilizando Canva. Tendréis que seleccionar mensajes claros, directos e impactantes que capten la atención y conecten con la realidad que habéis analizado. Recordad que una buena campaña no solo es visualmente atractiva, sino que transmite un mensaje significativo basado en datos reales.</p>
+<p style="text-align: justify;">Os animo a experimentar con todas las posibilidades que ofrece Canva para crear vuestros carteles: tipografías, colores, iconos, composiciones y formatos. La creatividad será clave para conseguir que vuestro mensaje destaque y llame la atención. Además, podéis incorporar fotografías realizadas por vosotros mismos, siempre respetando los derechos de imagen de todas las personas que aparezcan en ellas, es decir, asegurándoos de contar con su permiso y de utilizarlas de forma responsable. De este modo, vuestros diseños serán más personales, originales y éticamente correctos.</p>
+<p style="text-align: justify;">¡A crear!</p>
+<figure class="exe-figure position-center" style="width: 1200px;"><a href="https://www.canva.com/es_es/" title=""><img src="https://content-management-files.canva.com/c37135f6-6d9a-4920-b659-4f5e12698b8d/og-image-global-1200x630.jpg" width="1200" height="630" alt="" /></a>
+<figcaption class="figcaption"><span class="author">Canva España</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780138861131-ll5dxwhci","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo (5 discentes)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style=\"text-align: justify;\">Los resultados que habéis obtenido en la actividad anterior serán la base sobre la que construir vuestra campaña de concienciación. Ahora no se trata solo de diseñar materiales atractivos, sino de tomar decisiones fundamentadas: ¿qué idea queréis transmitir?, ¿qué aspectos habéis detectado como más relevantes?, ¿qué mensaje puede tener mayor impacto en vuestro público?</p>\n<p style=\"text-align: justify;\">Con toda esta información, vais a crear vuestra campaña utilizando Canva. Tendréis que seleccionar mensajes claros, directos e impactantes que capten la atención y conecten con la realidad que habéis analizado. Recordad que una buena campaña no solo es visualmente atractiva, sino que transmite un mensaje significativo basado en datos reales.</p>\n<p style=\"text-align: justify;\">Os animo a experimentar con todas las posibilidades que ofrece Canva para crear vuestros carteles: tipografías, colores, iconos, composiciones y formatos. La creatividad será clave para conseguir que vuestro mensaje destaque y llame la atención. Además, podéis incorporar fotografías realizadas por vosotros mismos, siempre respetando los derechos de imagen de todas las personas que aparezcan en ellas, es decir, asegurándoos de contar con su permiso y de utilizarlas de forma responsable. De este modo, vuestros diseños serán más personales, originales y éticamente correctos.</p>\n<p style=\"text-align: justify;\">¡A crear!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1200px;\"><a href=\"https://www.canva.com/es_es/\" title=\"\"><img src=\"https://content-management-files.canva.com/c37135f6-6d9a-4920-b659-4f5e12698b8d/og-image-global-1200x630.jpg\" width=\"1200\" height=\"630\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">Canva España</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780137221567-fjpto29qs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Campaña en acción</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Campaña en acción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Campaña en acción</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780137221567-fjpto29qs</odePageId>
+      <odeBlockId>block-1780139950853-evz7qrr9r</odeBlockId>
+      <blockName>Presentación del cartel a la clase</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780137221567-fjpto29qs</odePageId>
+          <odeBlockId>block-1780139950853-evz7qrr9r</odeBlockId>
+          <odeIdeviceId>idevice-1780139950852-o8yi2r12n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class="inline"><dt><span title="Agrupamiento">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style="text-align: justify;">En la última actividad vais a elaborar una presentación en Genially para dar a conocer vuestro cartel definitivo al resto de la clase. En ella no solo mostraréis el resultado final, sino que también explicaréis el proceso que habéis seguido para llegar hasta él.</p>
+<p style="text-align: justify;">Deberéis justificar vuestra elección de mensaje y diseño a partir de los datos obtenidos en las encuestas, incorporando en la presentación aquellas conclusiones más relevantes que habéis extraído del análisis. De este modo, podréis demostrar cómo la información recopilada ha influido directamente en vuestras decisiones creativas y comunicativas, dando sentido y coherencia a toda vuestra campaña de concienciación.</p>
+<p style="text-align: justify;">¡A por la última tarea!</p>
+<p style="text-align: justify;"><br /></p>
+<figure class="exe-figure position-center" style="width: 298px;"><a href="https://genially.com/es/" title=""><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png" width="298" height="296" alt="" /></a>
+<figcaption class="figcaption"><span class="author">Genially</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Todos los derechos reservados</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p><br /></p></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780139950852-o8yi2r12n","textInfoDurationInput":"60 minutos (una sesión)","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"Grupo cooperativo (5 discentes)","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración\">Duración</span></dt><dd>60 minutos (una sesión)</dd></div><div class=\"inline\"><dt><span title=\"Agrupamiento\">Agrupamiento</span></dt><dd>Grupo cooperativo (5 discentes)</dd></div></dl><p style=\"text-align: justify;\">En la última actividad vais a elaborar una presentación en Genially para dar a conocer vuestro cartel definitivo al resto de la clase. En ella no solo mostraréis el resultado final, sino que también explicaréis el proceso que habéis seguido para llegar hasta él.</p>\n<p style=\"text-align: justify;\">Deberéis justificar vuestra elección de mensaje y diseño a partir de los datos obtenidos en las encuestas, incorporando en la presentación aquellas conclusiones más relevantes que habéis extraído del análisis. De este modo, podréis demostrar cómo la información recopilada ha influido directamente en vuestras decisiones creativas y comunicativas, dando sentido y coherencia a toda vuestra campaña de concienciación.</p>\n<p style=\"text-align: justify;\">¡A por la última tarea!</p>\n<p style=\"text-align: justify;\"><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 298px;\"><a href=\"https://genially.com/es/\" title=\"\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/8/85/Genially_%282023%29_logotipo.png\" width=\"298\" height=\"296\" alt=\"\" /></a>\n<figcaption class=\"figcaption\"><span class=\"author\">Genially</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Todos los derechos reservados</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p><br /></p></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mps54bf1-ey31rjsu6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Ayuda para el profesorado</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ayuda para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Ayuda para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mps54bf1-ey31rjsu6</odePageId>
+      <odeBlockId>block-1779640218323-xhaxneqvs</odeBlockId>
+      <blockName>Gestión del aula</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mps54bf1-ey31rjsu6</odePageId>
+          <odeBlockId>block-1779640218323-xhaxneqvs</odeBlockId>
+          <odeIdeviceId>idevice-1779640218321-slsn4meph</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/christianbengoaprieto/mis-herramientas-de-gestion-del-aula-e7cvjib06vxywhwm" size="4" width="600" height="800" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780141235341-1xvlohjkl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780141235341-1xvlohjkl</odePageId>
+      <odeBlockId>block-1780141458355-3yoe4g4xr</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780141235341-1xvlohjkl</odePageId>
+          <odeBlockId>block-1780141458355-3yoe4g4xr</odeBlockId>
+          <odeIdeviceId>idevice-1780141458353-0hz9u67wa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Aquí incluyo dos de los intrumentos de evaluación que se usarán en esta situación de aprendizaje. Por un lado, una lista de cotejo con la que se evaluará la búsqueda de información y, por otro lado, la rúbrica con la que se evaluará el producto final.</p>
+<p><embed width="800" height="400" src="{{context_path}}/content/resources/Lista de cotejo_1.pdf" type="application/pdf"></embed></p>
+<p><embed width="800" height="400" src="{{context_path}}/content/resources/Rúbrica.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780141458353-0hz9u67wa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Aquí incluyo dos de los intrumentos de evaluación que se usarán en esta situación de aprendizaje. Por un lado, una lista de cotejo con la que se evaluará la búsqueda de información y, por otro lado, la rúbrica con la que se evaluará el producto final.</p>\n<p><embed width=\"800\" height=\"400\" src=\"{{context_path}}/content/resources/Lista de cotejo_1.pdf\" type=\"application/pdf\"></embed></p>\n<p><embed width=\"800\" height=\"400\" src=\"{{context_path}}/content/resources/Rúbrica.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780136805109-na3ak24uc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780136805109-na3ak24uc</odePageId>
+      <odeBlockId>block-1780136812678-h728dvdpq</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780136805109-na3ak24uc</odePageId>
+          <odeBlockId>block-1780136812678-h728dvdpq</odeBlockId>
+          <odeIdeviceId>idevice-1780136812677-pcw5n6nmn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ATRAPADOS EN LA RED</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Campaña de concienciación sobre los riesgos de las redes sociales</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Christian Bengoa Prieto</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#23e1bb;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
